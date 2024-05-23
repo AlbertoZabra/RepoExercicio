@@ -1,0 +1,2 @@
+# RepoExercicio
+Exercícios do Curso
