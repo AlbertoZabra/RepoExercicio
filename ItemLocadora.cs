@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace 
+namespace RepoExercicio;
 {
     public class ItemLocadora
     {
@@ -17,8 +17,9 @@ namespace
         Titulo = titulo;
         Ano = ano;
     }
-
-
+    public virtual string ObterItem()
+    {
+       return $"Codigo: {Codigo}, Titulo: {Titulo}, Ano: {Ano}, Disponivel: {Disponivel}";
         
     }
 }
