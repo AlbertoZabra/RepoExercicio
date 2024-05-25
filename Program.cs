@@ -2,12 +2,11 @@
 using System.Collections;
 using System.Reflection;
 using System.Runtime.InteropServices;
-using ConsoleApp1;
+using RepoExercicio;
 
 // ***********************************************************************************************************************
 // -------- Para criar um novo projeto, crie uma nova janela e abra uma pasta que esta pasta se tornará seu novo namespace
 // -------- em seguida abra um novo terminal e digite: dotnet new console
-
 
 
 // ------------- Lampada.cs
